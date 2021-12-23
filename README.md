@@ -13,7 +13,7 @@
 <p align="left">
 <!-- <a href="https://twitter.com/khushboogoel01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="khushboogoel01" height="30" width="40" /></a> -->
 <a href="https://www.linkedin.com/in/haihoang24/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="thanhhaise24" height="30" width="40" /></a>
- <a href="https://www.facebook.com/hoang.thanh.hai24/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/768px-Facebook_icon_2013.svg.png" alt="thanhhaise24" height="30" width="40" /></a>
+ <a href="https://www.facebook.com/hoang.thanh.hai24/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Facebook_icon_2013.svg/768px-Facebook_icon_2013.svg.png" alt="thanhhaise24" height="30" width="30" /></a>
 </p>
 
 <!--<h3 align="left">Languages and Tools:</h3>
